@@ -11,9 +11,11 @@ color:
     - '#79E6F1'
     - '#0000FF'
 layout_spectrum: 0.854579248232767
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/12229acd-8d7c-4486-9813-bbf6c9f2a4f2.png
 name: TechnoKnight
 navigation:
   - name: Twitter
     url: 'https://twitter.com/TechnoKnightLlc'
     type: external
-title: 'TechnoKnight, Llc'
+title: ''
