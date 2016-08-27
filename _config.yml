@@ -12,4 +12,8 @@ color:
     - '#0000FF'
 layout_spectrum: 0.854579248232767
 name: TechnoKnight
+navigation:
+  - name: Twitter
+    url: 'https://twitter.com/TechnoKnightLlc'
+    type: external
 title: 'TechnoKnight, Llc'
