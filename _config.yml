@@ -1,0 +1,14 @@
+layout_spectrum: 0.854579248232767
+typography_spectrum: 0.06400850438512862
+color:
+  brandStrength: 0.07147829560562968
+  lightness: 0.6608051585499197
+  saturation: 0.1917131112422794
+  rhythmicContrast: 0.7388127569574863
+  brandColors:
+    - '#2646EA'
+    - '#149DE8'
+    - '#000000'
+    - '#79E6F1'
+    - '#0000FF'
+name: TechnoKnight
